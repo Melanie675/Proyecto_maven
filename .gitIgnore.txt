@@ -1,0 +1,8 @@
+*.prefs
+*.projct
+*.classpath
+*.test-output
+*.settings
+*.class
+*.exe
+*.chromedriver
